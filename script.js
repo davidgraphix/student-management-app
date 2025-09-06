@@ -1,8 +1,5 @@
 let students = [];
 
-
-//I will delete these codes.
-
 document.getElementById('studentForm').addEventListener('submit', function (e) {
   e.preventDefault();
 
